@@ -1,0 +1,24 @@
+{
+  "name": "metal-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-react": "^7.23.3",
+    "metalsmith": "^2.6.2",
+    "metalsmith-react-tpl": "^3.0.2",
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.0",
+    "process": "^0.11.10"
+  }
+}
